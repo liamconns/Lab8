@@ -1,0 +1,22 @@
+p.bio{
+        background-color: grey;
+        text-align: justify;
+        color: Black;
+}
+p.bio:hover{
+        background-color: dodgerblue;
+        color: darkblue;
+}
+
+
+a{
+        background-color: dodgerblue;
+        font-family: serif;
+        color: Black;
+}
+
+body{
+        background-color: grey;
+        color: White;
+
+}
